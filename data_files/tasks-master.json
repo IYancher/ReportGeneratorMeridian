@@ -1,0 +1,566 @@
+{
+    "task_1":{
+        "name":"Размещение информации о мероприятии",
+        "task_weight":10,
+        "actions":{
+            "Редактирование текста":{
+                "weight": 80,
+                "time": 20
+            },
+
+            "Создание страницы сайта":{
+                "weight": 100,
+                "time": 10
+            },
+
+            "Оптимизация изображений для сайта":{
+                "weight": 80,
+                "time": 30
+            },
+
+            "Форматирование изображений для сайта":{
+                "weight": 90,
+                "time": 15
+            },
+
+            "СЕО-оптимизация страницы":{
+                "weight": 20,
+                "time": 60
+            },
+
+            "Форматирование текста":{
+                "weight": 60,
+                "time": 20
+            },
+
+            "Интеграция сервиса покупки билетов":{
+                "weight": 50,
+                "time": 10
+            },
+
+            "Интеграция сервиса записи на мероприятие":{
+                "weight": 60,
+                "time": 10
+            },
+
+            "Верстка дополнительных элементов":{
+                "weight": 40,
+                "time": 90
+            },
+
+            "Добавление файлов для скачивания":{
+                "weight": 20,
+                "time": 20
+            }
+        }
+    },
+
+    "task_2":{
+        "name":"Редактирование страницы мероприятия",
+        "weight":60,
+        "actions":{
+            "Замена изображений на странице":{
+                "weight": 3,
+                "time": 10
+            },
+            "Замена текстового описания":{
+                "weight": 5,
+                "time": 20
+            },
+            "Добавление дополнительных элементов (фото, видео)":{
+                "weight": 5,
+                "time": 20
+            },
+            "Верстка дополнительных блоков (таблицы, интерактивные элементы)":{
+                "weight": 8,
+                "time": 60
+            },
+            "Изменение раздела хранения мероприятия":{
+                "weight": 8,
+                "time": 5
+            },
+            "Интеграция сервиса продажи билетов":{
+                "weight": 6,
+                "time": 10
+            },
+            "Интеграция сервиса записи на мероприятия":{
+                "weight": 6,
+                "time": 10
+            },
+            "Добавление файлов для скачивания":{
+                "weight": 9,
+                "time": 20
+            },
+        }
+    },
+
+    "task_3":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_4":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_5":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_6":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_7":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_8":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_9":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_10":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_11":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+        }
+    },
+
+    "task_12":{
+        "name":"",
+        "weight":60,
+        "actions":{
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            },
+            "":{
+                "weight": ,
+                "time": 
+            }
+        }
+    }
+}
